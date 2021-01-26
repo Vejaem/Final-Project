@@ -2,7 +2,7 @@
             Testing Data Score: 0.8795454545454545
 
 **BARTHAG**: Training Data Score: 0.9028094153378892
-            ##Testing Data Score: 0.8863636363636364
+            ***Testing Data Score: 0.8863636363636364***
             
 **ADJOE**: Training Data Score: 0.8709187547456341
             Testing Data Score: 0.8590909090909091
@@ -35,4 +35,34 @@
             Testing Data Score: 0.8159090909090909
             
 **WAB**: Training Data Score: 0.9233105542900532
-            Testing Data Score: 0.884090909090909            
+            Testing Data Score: 0.884090909090909
+
+
+ADJOE: Adjusted Offensive Efficiency (An estimate of the offensive efficiency (points scored per 100 possessions) a team would have against the average Division I defense)
+
+ADJDE: Adjusted Defensive Efficiency (An estimate of the defensive efficiency (points allowed per 100 possessions) a team would have against the average Division I offense)
+
+BARTHAG: Power Rating (Chance of beating an average Division I team)
+
+EFG_O: Effective Field Goal Percentage Shot
+
+EFG_D: Effective Field Goal Percentage Allowed
+
+TOR: Turnover Percentage Allowed (Turnover Rate)
+
+TORD: Turnover Percentage Committed (Steal Rate)
+
+ORB: Offensive Rebound Rate
+
+DRB: Offensive Rebound Rate Allowed
+
+FTR : Free Throw Rate (How often the given team shoots Free Throws)
+
+FTRD: Free Throw Rate Allowed
+
+ADJ_T: Adjusted Tempo (An estimate of the tempo (possessions per 40 minutes) a team would have against the team that wants to play at an average Division I tempo)
+
+WAB: Wins Above Bubble (The bubble refers to the cut off between making the NCAA March Madness Tournament and not making it)
+
+
+### Power Rating (BARTHAG) appears to be the best indicator of a team making the postseason.
