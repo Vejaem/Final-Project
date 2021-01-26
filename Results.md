@@ -2,7 +2,7 @@
             Testing Data Score: 0.8795454545454545
 
 **BARTHAG**: Training Data Score: 0.9028094153378892
-            ##Testing Data Score: 0.8863636363636364##
+            ##Testing Data Score: 0.8863636363636364
             
 **ADJOE**: Training Data Score: 0.8709187547456341
             Testing Data Score: 0.8590909090909091
