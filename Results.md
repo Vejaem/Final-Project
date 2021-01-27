@@ -1,41 +1,33 @@
-**Wins**: Training Data Score: 0.8762338648443432
-            Testing Data Score: 0.8795454545454545
+###Overall, 2019, 2018
 
-**BARTHAG**: Training Data Score: 0.9028094153378892
-            ***Testing Data Score: 0.8863636363636364***
+**Wins**: Testing Data Score: 0.8795454545454545,  0.898876404494382, 0.8863636363636364 
+
+**BARTHAG**: Testing Data Score: 0.8863636363636364, 0.8426966292134831, 0.8181818181818182
             
-**ADJOE**: Training Data Score: 0.8709187547456341
-            Testing Data Score: 0.8590909090909091
+**ADJOE**: Testing Data Score: 0.8590909090909091, 0.898876404494382, 0.8863636363636364 
             
-**EFG_O**: Training Data Score: 0.8154897494305239
-            Testing Data Score: 0.8227272727272728
+**ADJDE**: Testing Data Score:                     , 0.898876404494382, 0.875
+
+**EFG_O**: Testing Data Score: 0.8227272727272728, 0.7865168539325843, 0.8181818181818182
             
-**EFG_D**: Training Data Score: 0.8071374335611238
-            Testing Data Score: 0.825
+**EFG_D**: Testing Data Score: 0.825, 0.8539325842696629, 
             
-**TOR**: Training Data Score: 0.8109339407744874
-            Testing Data Score: 0.8090909090909091
+**TOR**: Testing Data Score: 0.8090909090909091, 0.7865168539325843
             
-**TORD**: Training Data Score: 0.8033409263477601
-            Testing Data Score: 0.8159090909090909
+**TORD**: Testing Data Score: 0.8159090909090909, 0.7865168539325843
             
-**ORB**: Training Data Score: 0.8033409263477601
-            Testing Data Score: 0.8227272727272728
+**ORB**: Testing Data Score: 0.8227272727272728, 0.7865168539325843
             
-**DRB**: Training Data Score: 0.8025816249050873
-            Testing Data Score: 0.8159090909090909
+**DRB**: Testing Data Score: 0.8159090909090909, 0.7865168539325843
             
-**FTR**: Training Data Score: 0.8033409263477601
-            Testing Data Score: 0.8159090909090909
+**FTR**: Testing Data Score: 0.8159090909090909, 0.7865168539325843
             
-**FTRD**: Training Data Score: 0.8025816249050873
-            Testing Data Score: 0.8159090909090909
+**FTRD**: Testing Data Score: 0.8159090909090909,  0.7865168539325843
             
-**ADJ_T**: Training Data Score: 0.8033409263477601
-            Testing Data Score: 0.8159090909090909
+**ADJ_T**: Testing Data Score: 0.8159090909090909,  0.7865168539325843
             
-**WAB**: Training Data Score: 0.9233105542900532
-            Testing Data Score: 0.884090909090909
+**WAB**: Testing Data Score: 0.884090909090909, 0.9213483146067416, 
+
 
 
 ADJOE: Adjusted Offensive Efficiency (An estimate of the offensive efficiency (points scored per 100 possessions) a team would have against the average Division I defense)
@@ -65,4 +57,3 @@ ADJ_T: Adjusted Tempo (An estimate of the tempo (possessions per 40 minutes) a t
 WAB: Wins Above Bubble (The bubble refers to the cut off between making the NCAA March Madness Tournament and not making it)
 
 
-### Power Rating (BARTHAG) appears to be the best indicator of a team making the postseason.
