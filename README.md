@@ -7,6 +7,6 @@
 #### Our team made several important observations:
 <ul>
   <li> More to come in our presentation.</li>
-  <li> Team Leaflet continues to be ***amazing***.
+  <li> Team Leaflet continues to be <strong><em>amazing</em></strong>.
   
 </ul>
